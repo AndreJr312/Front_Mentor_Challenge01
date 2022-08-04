@@ -4,4 +4,4 @@
 
 ## Bem vindo! 👋
 
-Este é um desafio do site Frontend Mentor
+Este é o primeiro desafio que realizei da plataforma Frontend Mentor
